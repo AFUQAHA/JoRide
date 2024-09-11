@@ -1,0 +1,12 @@
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\bin\Debug\net8.0\JoRide.Model.deps.json
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\bin\Debug\net8.0\JoRide.Model.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\bin\Debug\net8.0\JoRide.Model.pdb
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.csproj.AssemblyReference.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.AssemblyInfoInputs.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.AssemblyInfo.cs
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.csproj.CoreCompileInputs.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\refint\JoRide.Model.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\JoRide.Model.pdb
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.Model\obj\Debug\net8.0\ref\JoRide.Model.dll

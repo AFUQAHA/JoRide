@@ -1,0 +1,17 @@
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\bin\Debug\net8.0\JoRide.DataAccess.deps.json
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\bin\Debug\net8.0\JoRide.DataAccess.runtimeconfig.json
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\bin\Debug\net8.0\JoRide.DataAccess.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\bin\Debug\net8.0\JoRide.DataAccess.pdb
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\bin\Debug\net8.0\JoRide.Model.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\bin\Debug\net8.0\JoRide.Model.pdb
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.csproj.AssemblyReference.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.AssemblyInfo.cs
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.D.CF0D901C.Up2Date
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\refint\JoRide.DataAccess.dll
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.pdb
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\JoRide.DataAccess.genruntimeconfig.cache
+C:\Users\alfou\OneDrive\Desktop\Project-Two\JoRide\JoRide.DataAccess\obj\Debug\net8.0\ref\JoRide.DataAccess.dll
